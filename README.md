@@ -2,12 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Bolude Daniel</h1>
 <h3 align="center">A passionate frontend developer from Lagos,Nigeria</h3>
-
+<p><img align="right" alt="Coding" width="400" src="https://tabodozo.sirv.com/Images/Oando%20Project/dev%20gif.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyhvarzegreat&label=Profile%20views&color=0e75b6&style=flat" alt="zyhvarzegreat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyhvarzegreat" alt="zyhvarzegreat" /></a> </p>
 <p align="left"> <a href="https://twitter.com/zyhvar_ze_great" target="blank"><img src="https://img.shields.io/twitter/follow/zyhvarzegreat?logo=twitter&style=for-the-badge" alt="zyhvarzegreat" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://tabodozo.sirv.com/Images/Oando%20Project/dev%20gif.gif">
 - 🔭 I’m currently working on [urcrypto](dev-portfolio-pi.vercel.app)
 
 - 🌱 I’m currently learning **React JS, TypeScript and SCSS**
