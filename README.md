@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyhvarzegreat" alt="zyhvarzegreat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zyhvarzegreat" target="blank"><img src="https://img.shields.io/twitter/follow/zyhvarzegreat?logo=twitter&style=for-the-badge" alt="zyhvarzegreat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zyhvar_ze_great" target="blank"><img src="https://img.shields.io/twitter/follow/zyhvarzegreat?logo=twitter&style=for-the-badge" alt="zyhvarzegreat" /></a> </p>
 
 - 🔭 I’m currently working on [urcrypto](dev-portfolio-pi.vercel.app)
 
