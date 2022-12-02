@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React JS, TypeScript and SCSS**
 
-- 👨‍💻 All of my projects are available at [dev-portfolio-pi.vercel.app/](https://theaesirdev-sbpy.vercel.app/)
+- 👨‍💻 All of my projects are available at [TheAesirDev](https://theaesirdev-sbpy.vercel.app/)
 
 - 📫 How to reach me **boludedaniel@gmail.com**
 
